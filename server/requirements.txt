@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+celery
+redis
+langchain_community
+langchain_huggingface
+python-decouple
+langchain_groq
+chromadb
+pinecone
+langchain_pinecone
+sqlalchemy
+databases
+asyncpg
+passlib
+pyjwt
