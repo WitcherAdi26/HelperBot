@@ -1,5 +1,5 @@
 # Description
-HelperBot : An ChatBot (a simple form of multi-tenant RAG application) which allows user to upload pdfs and helps them answer any queries and questions related to the content present inside the pdfs.
+HelperBot : A ChatBot (a simple form of multi-tenant RAG application) which allows user to upload pdfs and helps them answer any queries and questions related to the content present inside the pdfs.
 
 **Tools used :**
 - Backend => FastAPI
@@ -48,10 +48,10 @@ Here are some screenshots of some of the features
     ![Homepage](screenshots/Homepage.png)
 
 2) Uploading Pdfs : 
-    i) If files uploaded was not a pdf then 
+    i) If files uploaded was not a pdf then : 
     ![Not pdf](<screenshots/Not pdf.png>)
 
-    ii) If files uploaded were all pdfs then
+    ii) If files uploaded were all pdfs then : 
         a) Processing pdfs
         ![alt text](<screenshots/pdf processing.png>)
         b) Asking queries 
