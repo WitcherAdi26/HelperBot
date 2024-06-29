@@ -11,7 +11,7 @@ HelperBot : An ChatBot (a simple form of multi-tenant RAG application) which all
 
 
 Watch this Demo video to see the basic working of the application :
-[video](<screenshots/HelperBot Demo Video.mkv>)
+[video](https://drive.google.com/file/d/18GvjMQWgqLshPNFEddBZfNOTk7EghfOL/view?usp=sharing)
 
 **Setup**
 1)  Clone the Repository
