@@ -60,3 +60,7 @@ Here are some screenshots of some of the features
         c) If there is error during uploading
         ![alt text](screenshots/Retry.png)
 
+
+**Future Goals**
+- Implement User Authentication and Authorization.
+- Fix some bugs/issues.
