@@ -1,25 +1,24 @@
 .navbar {
-    background-color: #4caf50;
-    color: white;
-    padding: 1rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .navbar .navbar-brand {
-    font-size: 1.5rem;
-  }
-  
-  .navbar .navbar-links a {
-    color: white;
-    margin-left: 1rem;
-    text-decoration: none;
-  }
-  
-  .navbar .navbar-links .user-profile img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-  }
-  
+  background-color: #4caf50;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar .navbar-links a {
+  color: white;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+
+.navbar .navbar-links .user-profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}

@@ -31,7 +31,6 @@ function PDFUpload() {
         }
       });
       console.log(response.data);
-      // Handle successful analysis
     } catch (error) {
         alert('Error analyzing files');
         console.error('Error analyzing files', error);

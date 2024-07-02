@@ -1,17 +1,3 @@
-// import React, { useState } from 'react';
-// import Chat from '../components/Chat';
-// import './ChatPage.css';
-
-// function ChatPage({ user }) {
-//   return (
-//     <div className="chat-page">
-//       <Chat user={user} />
-//     </div>
-//   );
-// }
-
-// export default ChatPage;
-
 import React, { useState } from 'react';
 import Chat from '../components/Chat';
 import './ChatPage.css';

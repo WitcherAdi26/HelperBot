@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './Navbar.css';
 
 function Navbar() {
-  const isLoggedIn = false; // Replace with actual login state
+  const isLoggedIn = false;
 
   return (
     <nav className="navbar">

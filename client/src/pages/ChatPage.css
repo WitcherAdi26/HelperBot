@@ -1,39 +1,12 @@
-/* .chat-page {
-    display: flex;
-    height: calc(100vh - 60px); 
-  }
-  
-  .upload-section {
-    flex: 40%;
-    padding: 1rem;
-    border-right: 1px solid #ddd;
-    background-color: #e8f5e9;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .chat-section {
-    flex: 60%;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #f0f4f7;
-  } */
+.chat-page {
+  display: flex;
+  justify-content: center;
+  height: calc(100vh - 60px);
+}
 
-  .chat-page {
-    display: flex;
-    justify-content: center;
-    height: calc(100vh - 60px); /* Adjust height to account for the navbar */
-  }
-  
-  .chat-container-wrapper {
-    width: 75%;
-    display: flex;
-    justify-content: center;
-  }
-  
-  
+.chat-container-wrapper {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+}
+
