@@ -1,5 +1,5 @@
 # Description
-HelperBot : A ChatBot (a simple form of multi-tenant RAG application) which allows user to upload pdfs and helps them answer any queries and questions related to the content present inside the pdfs.
+IntelliDocs: AI-Powered Document Query Assistant (previous version name 'HelperBot'), a simple form of multi-tenant RAG application, which allows user to upload pdfs and helps them answer any queries and questions related to the content present inside the pdfs.
 
 **Tools used :**
 - Backend => FastAPI
